@@ -1,4 +1,4 @@
-# Week-5---Encryptie# Week 5 — Encryptie 
+# Week-5---Encryptie
 Repository: https://github.com/Joshua-1078191/Week-5---Encryptie-opdracht
 
 Python CLI om tekst te versleutelen en te ontsleutelen met AES‑256‑GCM.
